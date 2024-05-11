@@ -1,8 +1,8 @@
-To run the Project, install respective dependencies...
+Dependency Installation:
 
-Node packages installation:
+Node packages:-
 
 npm install node
 npm install express
-npm i shortid
+npm install shortid
 npm install mongoose
